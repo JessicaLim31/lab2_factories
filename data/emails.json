@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "subject": "Doctor appointment reminder",
+    "body": "Your visit is scheduled tomorrow at 5pm",
+    "ground_truth": "string"
+  },
+  {
+    "id": 2,
+    "subject": "Doctor appointment reminder",
+    "body": "Your visit is scheduled tomorrow at 5pm",
+    "ground_truth": null
+  }
+]
