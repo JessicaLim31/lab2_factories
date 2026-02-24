@@ -14,7 +14,7 @@
   "support": {
     "description": "Customer support, help requests, and technical issues"
   },
-  "appointment": {
-    "description": "Scheduled appointments, meetings, medical visits, interviews,booking confirmations and reservation"
+  "Appointment": {
+    "description": "Scheduled appointments, meetings, medical visits, interviews and booking confirmations"
   }
 }
