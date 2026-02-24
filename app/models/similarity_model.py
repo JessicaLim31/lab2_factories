@@ -94,7 +94,7 @@ class EmailClassifierModel:
         """Get all topics with their descriptions"""
         return {topic: self.get_topic_description(topic) for topic in self.topics}
     
-
+## Assignment
     #Calculate similarity score between stored email and new emails    
     def _cosine_similarity(self, embedding_a, embedding_b)-> float:
         if isinstance(embedding_a, list):
@@ -140,3 +140,4 @@ class EmailClassifierModel:
             return None, best_score
         
         return best_label, best_score
+## Assignment
